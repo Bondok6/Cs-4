@@ -1,5 +1,5 @@
 # CS-4
-## All Materials 
+## All Materials.
 
 ### Data Communication
  https://www.notion.so/Data-Communication-b91f0371418c4e7e9f1c44bba1f9f04f
@@ -15,3 +15,4 @@
 
 ### Dynamic Languages
  https://www.notion.so/Dynamic-Languages-1ce3e98b8dde4730a0400af8271bc497
+
