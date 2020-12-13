@@ -17,7 +17,7 @@
  https://www.notion.so/Dynamic-Languages-1ce3e98b8dde4730a0400af8271bc497
 
 .
-.
+. .
 
 ## Matrials 2017 / 2018
  https://drive.google.com/drive/folders/1ie04EsqNUcP3ElVeYXrdXdZb6ggnlS_V
