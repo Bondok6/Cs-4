@@ -1,6 +1,8 @@
 # CS-4
 ## All Materials 2020-2021 
 
+## First Term
+
 ### Data Communication
  [Data Communication-@notion](https://www.notion.so/Data-Communication-b91f0371418c4e7e9f1c44bba1f9f04f)
 
@@ -35,6 +37,8 @@
 ### Computer Vision
 
 ### Arabization
+
+. .
 
 ### Matrials pre year
  [Old Materials-@drive](https://drive.google.com/drive/folders/1hQut44ad4vajarBSRbHzvScj7_ODU13A?usp=sharing)
