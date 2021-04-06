@@ -25,13 +25,13 @@
 
 ### [Artificial Intelligence-@notion](https://www.notion.so/Artificial-Intelligence-0abcef59e5b84877845d1d07bdf6c28b)
 
-### [Distributed Systems-@notion](#)
+### [Distributed Systems-@notion](https://www.notion.so/Distributed-Systems-1a94028362c44f7f9ec070cbf3663b7b)
 
-### [Wireless Communication-@notion](#)
+### [Wireless Communication-@notion](https://www.notion.so/Wireless-Communication-4834cc632e0e4cdfaa6ee7900bf3951b)
 
-### [Computer Vision-@notion](#)
+### [Computer Vision-@notion](https://www.notion.so/Computer-Vision-eebbffd912dc471f81e00046bc89f008)
 
-### [Arabization-@notion](#)
+### [Arabization-@notion](https://www.notion.so/Arabization-11ccbf7fb7424fd582d6ad33a766ff71)
 
 . .
 
