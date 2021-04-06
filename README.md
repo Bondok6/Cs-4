@@ -23,7 +23,7 @@
 
 ## Second Term
 
-### [Artificial Intelligence-@notion](#)
+### [Artificial Intelligence-@notion](https://www.notion.so/Artificial-Intelligence-0abcef59e5b84877845d1d07bdf6c28b)
 
 ### [Distributed Systems-@notion](#)
 
