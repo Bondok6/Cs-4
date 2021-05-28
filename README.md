@@ -43,6 +43,6 @@
 | CH-1                 | CH-1               |  CH-1       |       CH-1            |   Lec_0                | 
 | CH-2                 | CH-2               |  CH-2       |       CH-2            |   Lec_1                | 
 | CH-3                 | CH-3               |  CH-3       |       CH-6            |   Lec-2                |
-| CH-4                 | CH-4               |  CH-4       |                       |   6 records ppt        |
-| CH-5                 | CH-5               |  CH-5       |                       |                        |
+| CH-4                 | CH-4               |  CH-4       |                       | 6 ppt uninformed search|
+| CH-5                 | CH-5               |  CH-5       |                       | 9 ppt informed search  |
 |                      | CH-7               |
