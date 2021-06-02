@@ -38,6 +38,7 @@
 ### Pre-Year Materials
  [Old Materials-@drive](https://drive.google.com/drive/folders/1hQut44ad4vajarBSRbHzvScj7_ODU13A?usp=sharing)
  
+<hr/>
 | Computer Vision      | Distributed System | Arabization | Wireless Communication| Artificial intelligence|
 |       :---:          |        :---:       |    :---:    |          :---:        |         :---:          |
 | CH-1                 | CH-1               |  CH-1       |       CH-1            |   Lec_0                | 
